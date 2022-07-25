@@ -1,0 +1,9 @@
+.nav{
+  text-decoration: none;
+  display: flex;
+  position: fixed;
+  list-style: none;
+  font-size: large;
+  align-items: center;
+  margin-right: 50px;
+}
